@@ -50,7 +50,6 @@ A layout platform can be specified using `data-platform=""`
 ## iOS and Android Application Layout
 
     <div data-role="view">Bar</div>
-
     <div data-role="layout" data-id="foo" data-platform="ios">
       <div data-role="header">Header</div>
     </div>
